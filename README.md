@@ -1,19 +1,19 @@
-# 👋 ¡Hi! I'm [Ángel Gómez]
+# 👋 Hi! I'm [Ángel Gómez]
 
-🎓 Currently a  **Computer Science**  student interested in **Data Analysis** and **Software Engineering**.   
+🎓 Currently a **Computer Science** student interested in **Data Analysis** and **Software Engineering**.   
 ---
 
 ## 🚀 About me
-- 🔭 Learning about **Software engineering** and **Database Manipulation**.  
-- 🌱 Interested in **Data Analysis, Data Visualization and Software Arquitecture**.  
-- 💡 Using concepts of **Artificial Inteligence** to develop some projects.
-- 🤓 Some of my personal preferences are **F1**, **Gym** and other **Automotive Sports**.
+- 🔭 Learning about **Software Engineering** and **Database Management**.  
+- 🌱 Interested in **Data Analysis, Data Visualization, and Software Architecture**.  
+- 💡 Applying concepts of **Artificial Intelligence** to develop projects.  
+- 🤓 Some of my personal interests are **F1**, **the gym**, and other **motorsports**.  
 
 ---
 
 ## 🛠️ Main tools
-- **Main programming languages**: Python, C++, Java, Mathematica.
-- **For Data**: Pandas, NumPy, Matplotlib, SQL.
+- **Main programming languages**: Python, C++, Java, Mathematica.  
+- **Data Tools**: Pandas, NumPy, Matplotlib, SQL.  
 
 ---
 
@@ -24,8 +24,9 @@
 ---
 
 ## 📫 Contact
-- ✉️ [E-mail] angeldavidgomez06@gmail.com
-- 💼 [LinkedIn](www.linkedin.com/in/angeldavidgomezpastrana)  
+- ✉️ E-mail: angeldavidgomez06@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/angeldavidgomezpastrana)  
+
 
 
 
